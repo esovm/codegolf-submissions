@@ -6,8 +6,8 @@ Featuring:
  - 2 Assembly programs
  - 2 x86 binaries
  - 4 Seed programs
- - 12 Malbolge programs
  - 12 Brainfuck programs
+ - 13 Malbolge programs
 
 ## How to use this repository
 
