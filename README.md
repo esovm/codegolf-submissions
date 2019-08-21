@@ -8,9 +8,9 @@ Featuring:
  - 3 x86 binaries
  - 4 Seed programs
  - D Brainfuck programs
- - D Malbolge programs
+ - E Malbolge programs
 
-In total, that's 27 submissions.
+In total, that's 28 submissions.
 
 ## How to use this repository
 
