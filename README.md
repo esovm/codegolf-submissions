@@ -2,6 +2,7 @@
 My submissions on https://codegolf.stackexchange.com
 
 Featuring:
+ - 1 Boolfuck program
  - 1 C program
  - 1 Shell script
  - 4 Assembly programs
