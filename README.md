@@ -11,7 +11,7 @@ Featuring:
  - F Brainfuck programs
  - F Malbolge programs
 
-In total, that's 28 submissions.
+In total, that's 2C submissions.
 
 ## How to use this repository
 
