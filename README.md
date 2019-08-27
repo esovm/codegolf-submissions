@@ -1,4 +1,7 @@
 # codegolf-submissions
+
+**Note: I'm leaving PPCG, so no more submissions will be uploaded here.**
+
 My submissions on https://codegolf.stackexchange.com
 
 Featuring:
