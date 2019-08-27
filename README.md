@@ -6,7 +6,7 @@ Featuring:
  - 1 C program
  - 1 Shell script
  - 4 Assembly programs
- - 3 x86 binaries
+ - 4 x86 binaries
  - 4 Seed programs
  - E Brainfuck programs
  - F Malbolge programs
