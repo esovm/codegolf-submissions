@@ -8,7 +8,7 @@ Featuring:
  - 4 x86 binaries
  - 4 Seed programs
  - 6 Assembly programs
- - E Brainfuck programs
+ - F Brainfuck programs
  - F Malbolge programs
 
 In total, that's 28 submissions.
