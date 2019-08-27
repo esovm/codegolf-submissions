@@ -5,9 +5,9 @@ Featuring:
  - 1 Boolfuck program
  - 1 C program
  - 1 Shell script
- - 4 Assembly programs
  - 4 x86 binaries
  - 4 Seed programs
+ - 6 Assembly programs
  - E Brainfuck programs
  - F Malbolge programs
 
