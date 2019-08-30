@@ -1,6 +1,6 @@
 # codegolf-submissions
 
-**Note: I'm leaving PPCG, so no more submissions will be uploaded here.**
+**Note: I'm thinking on leaving PPCG, so no more submissions may be uploaded here.**
 
 My submissions on https://codegolf.stackexchange.com
 
@@ -12,7 +12,7 @@ Featuring:
  - 4 Seed programs
  - 6 Assembly programs
  - F Brainfuck programs
- - F Malbolge programs
+ - 10 Malbolge programs
 
 In total, that's 2C submissions.
 
