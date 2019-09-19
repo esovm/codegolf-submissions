@@ -5,10 +5,10 @@
 My submissions on https://codegolf.stackexchange.com
 
 Featuring:
- - 1 Befunge program
  - 1 Boolfuck program
  - 1 C program
  - 1 Shell script
+ - 2 Befunge program
  - 4 x86 binaries
  - 6 Assembly programs
  - 7 Seed programs
