@@ -15,7 +15,7 @@ Featuring:
  - 10 Brainfuck programs
  - 11 Malbolge programs
 
-In total, that's 2E submissions.
+In total, that's 3A submissions.
 
 ## How to use this repository
 
