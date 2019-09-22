@@ -6,16 +6,16 @@ My submissions on https://codegolf.stackexchange.com
 
 Featuring:
  - 1 Boolfuck program
- - 1 C program
  - 1 Shell script
+ - 2 C programs
  - 2 Befunge program
  - 4 x86 binaries
- - 6 Assembly programs
- - 7 Seed programs
- - F Brainfuck programs
+ - 7 Assembly programs
+ - 8 Seed programs
+ - 10 Brainfuck programs
  - 11 Malbolge programs
 
-In total, that's 3F submissions.
+In total, that's 2E submissions.
 
 ## How to use this repository
 
