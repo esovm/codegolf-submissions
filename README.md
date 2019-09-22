@@ -13,9 +13,9 @@ Featuring:
  - 6 Assembly programs
  - 7 Seed programs
  - F Brainfuck programs
- - 10 Malbolge programs
+ - 11 Malbolge programs
 
-In total, that's 3E submissions.
+In total, that's 3F submissions.
 
 ## How to use this repository
 
