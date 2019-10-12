@@ -5,15 +5,17 @@
 My submissions on https://codegolf.stackexchange.com
 
 Featuring:
+ - 1 Whitespace program
+ - 1 JavaScript program
  - 1 Boolfuck program
  - 2 Shell scripts
  - 2 C programs
- - 2 Befunge program
+ - 3 Befunge program
  - 4 x86 binaries
- - A Assembly programs
  - 8 Seed programs
+ - A Assembly programs
  - 11 Brainfuck programs
- - 16 Malbolge programs
+ - 18 Malbolge programs
 
 In total, that's 40 submissions.
 
