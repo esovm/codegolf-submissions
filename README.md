@@ -4,7 +4,7 @@
 
 My submissions on https://codegolf.stackexchange.com
 
-Featuring:
+Featuring (note it may be a little bit off):
  - 1 Whitespace program
  - 1 JavaScript program
  - 1 Boolfuck program
@@ -17,7 +17,7 @@ Featuring:
  - 11 Brainfuck programs
  - 18 Malbolge programs
 
-In total, that's 40 submissions.
+In total, that's 55 submissions.
 
 ## How to use this repository
 
