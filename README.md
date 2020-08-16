@@ -17,7 +17,7 @@ Featuring (note it may be a little bit off):
  - 11 Brainfuck programs
  - 18 Malbolge programs
 
-In total, that's 55 submissions.
+In total, that's 118 submissions.
 
 ## How to use this repository
 
